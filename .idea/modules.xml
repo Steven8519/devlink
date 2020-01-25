@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micoservices/composite-service/composite-service.iml" filepath="$PROJECT_DIR$/micoservices/composite-service/composite-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micoservices/contact-service/contact-service.iml" filepath="$PROJECT_DIR$/micoservices/contact-service/contact-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micoservices/developer-service/developer-service.iml" filepath="$PROJECT_DIR$/micoservices/developer-service/developer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/devlink.iml" filepath="$PROJECT_DIR$/.idea/devlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micoservices/micoservices.iml" filepath="$PROJECT_DIR$/micoservices/micoservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
+    </modules>
+  </component>
+</project>
